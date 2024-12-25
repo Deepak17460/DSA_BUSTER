@@ -105,6 +105,6 @@ Simplify daily Git tasks:
 - **`git show`**: Display commit details  
 - **`git tag`**: Manage tags  
 
----
+## 🖌️ **8️⃣ what is stale branch ? **  
 
 💡 **Tip**: Save this list for quick reference and practice each command to become a Git pro! 🚀  
